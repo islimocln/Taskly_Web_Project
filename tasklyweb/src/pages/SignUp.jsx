@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import LeftImage from '../assets/loginsignup2.png'; // Sol görsel
 import RightImage from '../assets/loginsignup1.png'; // Sağ görsel
 
-function Login() {
+function SignUp() {
   return (
     <div style={{ 
       fontFamily: 'Arial, sans-serif', 
@@ -64,17 +64,22 @@ function Login() {
           TASKLY
         </h1>
 
-        {/* Giriş Yap Başlığı */}
+        {/* Kayıt Ol Başlığı */}
         <h2 style={{ 
           fontSize: '24px',
           color: '#1A73E8',
           marginBottom: '20px'
         }}>
-          Giriş Yap
+          Kayıt Ol
         </h2>
 
         {/* Form Alanı */}
         <form>
+          <input 
+            type="text" 
+            placeholder="İsim" 
+            style={{ width: '100%', padding: '12px', marginBottom: '15px', borderRadius: '8px', border: '1px solid #ccc', fontSize: '16px' }}
+          />
           <input 
             type="email" 
             placeholder="E-posta" 
@@ -90,15 +95,15 @@ function Login() {
             type="submit"
             style={{ width: '100%', padding: '12px', backgroundColor: '#1A73E8', color: '#ffffff', fontSize: '16px', borderRadius: '8px', border: 'none', cursor: 'pointer' }}
           >
-            Giriş Yap
+            Kayıt Ol
           </button>
         </form>
 
-        {/* Kayıt Ol Linki */}
+        {/* Giriş Yap Linki */}
         <div style={{ marginTop: '20px' }}>
-          <span>Hesabınız yok mu? </span>
-          <Link to="/signup" style={{ color: '#1A73E8', textDecoration: 'none', fontWeight: 'bold' }}>
-            Kayıt ol 
+          <span>Zaten bir hesabınız var mı? </span>
+          <Link to="/login" style={{ color: '#1A73E8', textDecoration: 'none', fontWeight: 'bold' }}>
+            Giriş Yap
           </Link>
         </div>
       </div>
@@ -106,4 +111,4 @@ function Login() {
   );
 }
 
-export default Login;
+export default SignUp;
