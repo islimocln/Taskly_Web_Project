@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\islim\\OneDrive\\Masaüstü\\Taskly\\TasklyAPI\\TasklyAPI\\TasklyAPI.csproj": {}
+    "C:\\Users\\islim\\OneDrive\\Masaüstü\\Taskly_Web_Project\\TasklyAPI\\TasklyAPI\\TasklyAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\islim\\OneDrive\\Masaüstü\\Taskly\\TasklyAPI\\TasklyAPI\\TasklyAPI.csproj": {
+    "C:\\Users\\islim\\OneDrive\\Masaüstü\\Taskly_Web_Project\\TasklyAPI\\TasklyAPI\\TasklyAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\islim\\OneDrive\\Masaüstü\\Taskly\\TasklyAPI\\TasklyAPI\\TasklyAPI.csproj",
+        "projectUniqueName": "C:\\Users\\islim\\OneDrive\\Masaüstü\\Taskly_Web_Project\\TasklyAPI\\TasklyAPI\\TasklyAPI.csproj",
         "projectName": "TasklyAPI",
-        "projectPath": "C:\\Users\\islim\\OneDrive\\Masaüstü\\Taskly\\TasklyAPI\\TasklyAPI\\TasklyAPI.csproj",
+        "projectPath": "C:\\Users\\islim\\OneDrive\\Masaüstü\\Taskly_Web_Project\\TasklyAPI\\TasklyAPI\\TasklyAPI.csproj",
         "packagesPath": "C:\\Users\\islim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\islim\\OneDrive\\Masaüstü\\Taskly\\TasklyAPI\\TasklyAPI\\obj\\",
+        "outputPath": "C:\\Users\\islim\\OneDrive\\Masaüstü\\Taskly_Web_Project\\TasklyAPI\\TasklyAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",

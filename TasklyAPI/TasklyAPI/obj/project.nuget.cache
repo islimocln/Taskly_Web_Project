@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hpphgQh62hI=",
+  "dgSpecHash": "Ify4rSD+Xbg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\islim\\OneDrive\\Masaüstü\\Taskly\\TasklyAPI\\TasklyAPI\\TasklyAPI.csproj",
+  "projectFilePath": "C:\\Users\\islim\\OneDrive\\Masaüstü\\Taskly_Web_Project\\TasklyAPI\\TasklyAPI\\TasklyAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\islim\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\islim\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.1\\microsoft.aspnetcore.authentication.jwtbearer.6.0.1.nupkg.sha512",
