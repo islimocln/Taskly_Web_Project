@@ -9,21 +9,21 @@ namespace TasklyAPI.Context
             : base(options)
         {
         }
+        public DbSet<Users> Users { get; set; }
+        public DbSet<Teams> Teams { get; set; }
+        public DbSet<TeamMembers> TeamMembers { get; set; }
+        public DbSet<Projects> Projects { get; set; }
+        public DbSet<ProjectTeams> ProjectTeams { get; set; }
+        public DbSet<ProjectDocuments> ProjectDocuments { get; set; }
+        public DbSet<Tasks> Tasks { get; set; }
+        public DbSet<TaskAssignments> TaskAssignments { get; set; }
+        public DbSet<Notification> Notifications { get; set; }
 
-        public DbSet<User> Users { get; set; }
-
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            base.OnModelCreating(modelBuilder);
-
-            modelBuilder.Entity<User>()
-                .HasIndex(u => u.Username)
-                .IsUnique();
-
-            modelBuilder.Entity<User>()
-                .HasIndex(u => u.Email)
-                .IsUnique();
-        }
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
+        base.OnModelCreating(modelBuilder);
+    }
     }
 }
 

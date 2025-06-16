@@ -1,0 +1,8 @@
+C:\Users\islim\OneDrive\Masaüstü\Taskly_Mobile_Project\TasklyAPI\TasklyAPI\obj\Debug\net7.0\TasklyAPI.csproj.AssemblyReference.cache
+C:\Users\islim\OneDrive\Masaüstü\Taskly_Mobile_Project\TasklyAPI\TasklyAPI\obj\Debug\net7.0\TasklyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islim\OneDrive\Masaüstü\Taskly_Mobile_Project\TasklyAPI\TasklyAPI\obj\Debug\net7.0\TasklyAPI.AssemblyInfoInputs.cache
+C:\Users\islim\OneDrive\Masaüstü\Taskly_Mobile_Project\TasklyAPI\TasklyAPI\obj\Debug\net7.0\TasklyAPI.AssemblyInfo.cs
+C:\Users\islim\OneDrive\Masaüstü\Taskly_Mobile_Project\TasklyAPI\TasklyAPI\obj\Debug\net7.0\TasklyAPI.csproj.CoreCompileInputs.cache
+C:\Users\islim\OneDrive\Masaüstü\Taskly_Mobile_Project\TasklyAPI\TasklyAPI\obj\Debug\net7.0\TasklyAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\islim\OneDrive\Masaüstü\Taskly_Mobile_Project\TasklyAPI\TasklyAPI\obj\Debug\net7.0\TasklyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\islim\OneDrive\Masaüstü\Taskly_Mobile_Project\TasklyAPI\TasklyAPI\obj\Debug\net7.0\TasklyAPI.sourcelink.json

@@ -14,6 +14,12 @@ function Home() {
           </button>
         </Link>
       </div>
+      <Link to="/dashboard">
+          <button style={{ backgroundColor: '#1A73E8', color: '#fff', border: 'none', padding: '10px 20px', borderRadius: '8px', fontSize: '16px' }}>
+          dashboard
+          </button>
+        </Link>
+
 
       {/* Ana İçerik */}
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '80px', backgroundColor: '#f4f6f8', minHeight: 'calc(100vh - 90px)' }}>

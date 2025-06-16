@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\islim\\OneDrive\\Masa\u00FCst\u00FC\\Taskly\\TasklyAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\islim\\OneDrive\\Masa\u00FCst\u00FC\\Taskly_Web_Project\\TasklyAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E220A48-D0B3-4B5C-9D98-26AEFF6D2399}|TasklyAPI\\TasklyAPI.csproj|c:\\users\\islim\\onedrive\\masa\u00FCst\u00FC\\taskly_web_project\\tasklyapi\\tasklyapi\\migrations\\20250523172907_changerelatedidtostringinnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E220A48-D0B3-4B5C-9D98-26AEFF6D2399}|TasklyAPI\\TasklyAPI.csproj|solutionrelative:tasklyapi\\migrations\\20250523172907_changerelatedidtostringinnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250523172907_ChangeRelatedIdToStringInNotification.cs",
+              "DocumentMoniker": "C:\\Users\\islim\\OneDrive\\Masa\u00FCst\u00FC\\Taskly_Web_Project\\TasklyAPI\\TasklyAPI\\Migrations\\20250523172907_ChangeRelatedIdToStringInNotification.cs",
+              "RelativeDocumentMoniker": "TasklyAPI\\Migrations\\20250523172907_ChangeRelatedIdToStringInNotification.cs",
+              "ToolTip": "C:\\Users\\islim\\OneDrive\\Masa\u00FCst\u00FC\\Taskly_Web_Project\\TasklyAPI\\TasklyAPI\\Migrations\\20250523172907_ChangeRelatedIdToStringInNotification.cs",
+              "RelativeToolTip": "TasklyAPI\\Migrations\\20250523172907_ChangeRelatedIdToStringInNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:29:07.556Z",
+              "EditorCaption": ""
             }
           ]
         }
